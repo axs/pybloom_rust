@@ -1,6 +1,11 @@
 # pybloom_rust
 python lib wrapped around rust bloom crate
 
+cargo new bloom --lib
+     Created library `bloom` package
+
+cd bloom 
+
 maturin build
 
 outputs to targets/
